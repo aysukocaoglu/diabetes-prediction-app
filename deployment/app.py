@@ -33,23 +33,7 @@ app = Flask(__name__, template_folder="templates")
 # Home route
 @app.route("/")
 def home():
-    return '''
-    <html>
-        <head><title>Diabetes Prediction App</title></head>
-        <body style="font-family: Arial; text-align: center; padding-top: 100px;">
-            <h1>Welcome to the Diabetes Prediction App 🚀</h1>
-            <p>Click the button below to start predicting diabetes risk.</p>
-            <a href="/form" style="
-                padding: 10px 20px;
-                background-color: #4CAF50;
-                color: white;
-                text-decoration: none;
-                font-weight: bold;
-                border-radius: 8px;
-            ">Go to Prediction Form</a>
-        </body>
-    </html>
-    '''
+    return render_template("home.html")
 
 # JSON Prediction Endpoint
 @app.route("/predict", methods=["POST"])
