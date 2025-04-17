@@ -81,7 +81,7 @@
             <form method="POST" action="/form">
                 {% for field in ["Pregnancies", "Glucose", "BloodPressure", "SkinThickness", "Insulin", "BMI", "DiabetesPedigreeFunction", "Age"] %}
                     <label for="{{ field }}">{{ field }}:</label><br>
-                    <input type="number" step="any" name="{{ field }}" value="{{ request.form.get(field, '') }}" required><br>
+                    <input type="number" step="any" name="{{ field }}" value="{{ request.form.get(field, '') }}" required min="0"><br>
                 {% endfor %}
                 <div class="btn-group">
                     <button type="submit">Predict</button>
