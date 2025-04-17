@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diabetes Prediction App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            max-width: 1100px;
+            margin: auto;
+        }
+        .form-section, .result-section {
+            flex: 1;
+            min-width: 350px;
+            box-sizing: border-box;
+        }
+        .form-section {
+            padding-right: 30px;
+        }
+        .result-section {
+            padding-left: 30px;
+            border-left: 1px solid #ccc;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 6px;
+            margin: 4px 0 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        label {
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        button {
+            padding: 8px 12px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .result-section img {
+            max-width: 120%;
+            height: 230px;
+            margin: 10px 0;
+        }
+        h1 {
+            margin-bottom: 20px;
+            color: #2c3e50;
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        h2, h3, h4 {
+            margin-bottom: 8px;
+            margin-top: 12px;
+        }
+        .performance {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🩺 Diabetes Prediction App</h1>
+    <div class="container">
+        <!-- Form Section -->
+        <div class="form-section">
+            <form method="POST" action="/form">
+                {% for field in ["Pregnancies", "Glucose", "BloodPressure", "SkinThickness", "Insulin", "BMI", "DiabetesPedigreeFunction", "Age"] %}
+                    <label for="{{ field }}">{{ field }}:</label><br>
+                    <input type="number" step="any" name="{{ field }}" value="{{ request.form.get(field, '') }}" required><br>
+                {% endfor %}
+                <div class="btn-group">
+                    <button type="submit">Predict</button>
+                    <button type="reset" onclick="window.location.href='/form'">Reset</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Result Section -->
+        <div class="result-section">
+            {% if prediction is not none %}
+                <h2>Prediction Result:</h2>
+                {% if prediction == 1 %}
+                    <p style="color: red;">⚠️ The model predicts the patient is <strong>Diabetic</strong>.</p>
+                {% elif prediction == 0 %}
+                    <p style="color: green;">✅ The model predicts the patient is <strong>Not Diabetic</strong>.</p>
+                {% else %}
+                    <p style="color: orange;">{{ prediction }}</p>
+                {% endif %}
+
+                {% if plot_url %}
+                    <h3>🔍 Visual Representation:</h3>
+                    <img src="data:image/png;base64,{{ plot_url }}" alt="Prediction Plot">
+                    <div class="performance">
+                        <h4>📊 Model Performance:</h4>
+                        <p><strong>Accuracy:</strong> {{ accuracy }}%</p>
+                        <p><strong>F1 Score:</strong> {{ f1_score }}%</p>
+                    </div>
+                {% endif %}
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
