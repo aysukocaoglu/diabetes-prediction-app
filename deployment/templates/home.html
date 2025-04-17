@@ -5,54 +5,68 @@
     <title>Diabetes Prediction App</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f6f9fc;
+            font-family: 'Segoe UI', sans-serif;
             margin: 0;
-            padding: 40px;
+            padding: 0;
+            background-color: #f7fbfc;
         }
         .container {
-            max-width: 1200px;
-            margin: auto;
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: space-around;
             flex-wrap: wrap;
+            padding: 40px;
+            min-height: 100vh;
         }
-        .text-section {
-            max-width: 550px;
+        .text-content {
+            max-width: 500px;
         }
-        h1 {
+        .text-content h1 {
             font-size: 36px;
             color: #2c3e50;
+            margin-bottom: 15px;
         }
-        p {
+        .text-content p {
             font-size: 18px;
             color: #34495e;
+            margin-bottom: 25px;
         }
-        a.button {
+        .text-content a {
             background-color: #4CAF50;
             color: white;
             padding: 12px 24px;
-            text-decoration: none;
-            font-size: 16px;
             border-radius: 6px;
-            display: inline-block;
-            margin-top: 20px;
+            font-size: 16px;
+            text-decoration: none;
+            font-weight: bold;
         }
-        img {
-            max-width: 500px;
+        .image-content img {
+            max-width: 450px;
             height: auto;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+                text-align: center;
+            }
+            .image-content img {
+                max-width: 90%;
+                margin-top: 30px;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="text-section">
+        <div class="text-content">
             <h1>Welcome to the Diabetes Prediction App 🚀</h1>
             <p>Click the button below to start predicting diabetes risk.</p>
-            <a href="/form" class="button">Go to Prediction Form</a>
+            <a href="/form">Go to Prediction Form</a>
         </div>
-        <img src="{{ url_for('static', filename='images/Diabetes.png') }}" alt="Diabetes Prediction">
+        <div class="image-content">
+            <img src="{{ url_for('static', filename='images/Diabetes.png') }}" alt="Diabetes Hero Image">
+        </div>
     </div>
 </body>
 </html>
