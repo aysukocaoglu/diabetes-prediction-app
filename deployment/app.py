@@ -15,7 +15,7 @@ with open("final_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Load dataset to calculate model performance
-df = pd.read_csv("../data/diabetes.csv")  # Dosya yolun buysa
+df = pd.read_csv("data/diabetes.csv") 
 X = df.drop("Outcome", axis=1)
 y = df["Outcome"]
 
