@@ -11,6 +11,7 @@ import os
 import numpy as np
 import pandas as pd
 
+# Flask app for diabetes prediction (Render-deployable)
 # Load the trained model
 with open("final_model.pkl", "rb") as f:
     model = pickle.load(f)
