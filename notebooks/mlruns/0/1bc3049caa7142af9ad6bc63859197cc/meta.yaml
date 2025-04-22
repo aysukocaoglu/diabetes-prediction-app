@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/1bc3049caa7142af9ad6bc63859197cc/artifacts
+end_time: 1745358111189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bc3049caa7142af9ad6bc63859197cc
+run_name: final_model
+run_uuid: 1bc3049caa7142af9ad6bc63859197cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745358099816
+status: 3
+tags: []
+user_id: aysuk

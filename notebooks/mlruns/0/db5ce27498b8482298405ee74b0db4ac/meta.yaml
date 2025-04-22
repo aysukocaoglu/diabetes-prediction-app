@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/db5ce27498b8482298405ee74b0db4ac/artifacts
+end_time: 1745355453037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db5ce27498b8482298405ee74b0db4ac
+run_name: glamorous-slug-797
+run_uuid: db5ce27498b8482298405ee74b0db4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355452864
+status: 3
+tags: []
+user_id: aysuk

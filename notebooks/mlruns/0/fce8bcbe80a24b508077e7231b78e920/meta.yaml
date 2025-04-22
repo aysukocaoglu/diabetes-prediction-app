@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/fce8bcbe80a24b508077e7231b78e920/artifacts
+end_time: 1745357310536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fce8bcbe80a24b508077e7231b78e920
+run_name: awesome-lamb-134
+run_uuid: fce8bcbe80a24b508077e7231b78e920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357310402
+status: 3
+tags: []
+user_id: aysuk

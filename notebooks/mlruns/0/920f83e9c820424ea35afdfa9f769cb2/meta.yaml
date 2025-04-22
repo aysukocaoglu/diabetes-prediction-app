@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/920f83e9c820424ea35afdfa9f769cb2/artifacts
+end_time: 1745355451351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 920f83e9c820424ea35afdfa9f769cb2
+run_name: wise-flea-958
+run_uuid: 920f83e9c820424ea35afdfa9f769cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355451127
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/3ad52818ae7449c788a6eba00b543dbe/artifacts
+end_time: 1745360299864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad52818ae7449c788a6eba00b543dbe
+run_name: nosy-dog-840
+run_uuid: 3ad52818ae7449c788a6eba00b543dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360299745
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f73af604cab04b2cbe7aa4827fd66d98/artifacts
+end_time: 1745360300505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f73af604cab04b2cbe7aa4827fd66d98
+run_name: sneaky-flea-835
+run_uuid: f73af604cab04b2cbe7aa4827fd66d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360300365
+status: 3
+tags: []
+user_id: aysuk

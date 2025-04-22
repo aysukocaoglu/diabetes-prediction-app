@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/8666f2f2e00841ac9b4a197975d60754/artifacts
+end_time: 1745357301599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8666f2f2e00841ac9b4a197975d60754
+run_name: rare-goat-307
+run_uuid: 8666f2f2e00841ac9b4a197975d60754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357295813
+status: 3
+tags: []
+user_id: aysuk

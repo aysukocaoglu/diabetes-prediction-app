@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/7bffe794540b41579262750b9d321a67/artifacts
+end_time: 1745360300607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bffe794540b41579262750b9d321a67
+run_name: dapper-koi-740
+run_uuid: 7bffe794540b41579262750b9d321a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360300521
+status: 3
+tags: []
+user_id: aysuk

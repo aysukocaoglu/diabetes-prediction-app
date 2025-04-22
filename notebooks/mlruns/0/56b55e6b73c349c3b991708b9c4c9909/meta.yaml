@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/56b55e6b73c349c3b991708b9c4c9909/artifacts
+end_time: 1745357308301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56b55e6b73c349c3b991708b9c4c9909
+run_name: funny-fawn-733
+run_uuid: 56b55e6b73c349c3b991708b9c4c9909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357301611
+status: 3
+tags: []
+user_id: aysuk

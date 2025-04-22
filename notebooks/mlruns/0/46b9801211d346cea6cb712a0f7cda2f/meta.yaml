@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/46b9801211d346cea6cb712a0f7cda2f/artifacts
+end_time: 1745356397804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46b9801211d346cea6cb712a0f7cda2f
+run_name: charming-mare-455
+run_uuid: 46b9801211d346cea6cb712a0f7cda2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356397612
+status: 3
+tags: []
+user_id: aysuk

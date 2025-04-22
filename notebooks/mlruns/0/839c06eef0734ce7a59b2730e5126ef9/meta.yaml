@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/839c06eef0734ce7a59b2730e5126ef9/artifacts
+end_time: 1745355098306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 839c06eef0734ce7a59b2730e5126ef9
+run_name: righteous-mule-30
+run_uuid: 839c06eef0734ce7a59b2730e5126ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355092050
+status: 3
+tags: []
+user_id: aysuk

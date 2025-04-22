@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/e78f2e1ad2ab4012afdfe35e302b9cde/artifacts
+end_time: 1745355450356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78f2e1ad2ab4012afdfe35e302b9cde
+run_name: handsome-hawk-352
+run_uuid: e78f2e1ad2ab4012afdfe35e302b9cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355450205
+status: 3
+tags: []
+user_id: aysuk

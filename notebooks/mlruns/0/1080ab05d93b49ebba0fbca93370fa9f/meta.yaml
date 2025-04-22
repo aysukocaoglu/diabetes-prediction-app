@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/1080ab05d93b49ebba0fbca93370fa9f/artifacts
+end_time: 1745356397973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1080ab05d93b49ebba0fbca93370fa9f
+run_name: merciful-smelt-331
+run_uuid: 1080ab05d93b49ebba0fbca93370fa9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356397835
+status: 3
+tags: []
+user_id: aysuk

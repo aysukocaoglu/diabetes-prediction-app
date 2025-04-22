@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d4b4c5c0c8ed41d58da3c7a25c738c8d/artifacts
+end_time: 1745356394406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4b4c5c0c8ed41d58da3c7a25c738c8d
+run_name: glamorous-fish-277
+run_uuid: d4b4c5c0c8ed41d58da3c7a25c738c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356394294
+status: 3
+tags: []
+user_id: aysuk

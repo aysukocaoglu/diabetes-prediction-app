@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/14e7dd130df84cce8f97cba0d67faa84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14e7dd130df84cce8f97cba0d67faa84
+run_name: thoughtful-bee-493
+run_uuid: 14e7dd130df84cce8f97cba0d67faa84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745358447603
+status: 1
+tags: []
+user_id: aysuk

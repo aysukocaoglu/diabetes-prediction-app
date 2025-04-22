@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f501a472a2854d7aa240aef9fbd36454/artifacts
+end_time: 1745355452465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f501a472a2854d7aa240aef9fbd36454
+run_name: dazzling-skunk-890
+run_uuid: f501a472a2854d7aa240aef9fbd36454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355452292
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/b535de1b4a484a1e914b9452373af12e/artifacts
+end_time: 1745360301047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b535de1b4a484a1e914b9452373af12e
+run_name: angry-panda-615
+run_uuid: b535de1b4a484a1e914b9452373af12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360300909
+status: 3
+tags: []
+user_id: aysuk

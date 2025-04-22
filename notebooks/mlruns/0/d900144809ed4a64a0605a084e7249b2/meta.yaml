@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d900144809ed4a64a0605a084e7249b2/artifacts
+end_time: 1745360301300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d900144809ed4a64a0605a084e7249b2
+run_name: unequaled-snake-826
+run_uuid: d900144809ed4a64a0605a084e7249b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360301188
+status: 3
+tags: []
+user_id: aysuk

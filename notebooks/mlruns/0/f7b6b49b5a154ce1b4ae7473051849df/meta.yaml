@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f7b6b49b5a154ce1b4ae7473051849df/artifacts
+end_time: 1745356394877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7b6b49b5a154ce1b4ae7473051849df
+run_name: fortunate-tern-193
+run_uuid: f7b6b49b5a154ce1b4ae7473051849df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356394723
+status: 3
+tags: []
+user_id: aysuk

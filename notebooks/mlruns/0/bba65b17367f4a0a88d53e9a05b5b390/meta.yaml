@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/bba65b17367f4a0a88d53e9a05b5b390/artifacts
+end_time: 1745355451018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba65b17367f4a0a88d53e9a05b5b390
+run_name: inquisitive-deer-823
+run_uuid: bba65b17367f4a0a88d53e9a05b5b390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355450914
+status: 3
+tags: []
+user_id: aysuk

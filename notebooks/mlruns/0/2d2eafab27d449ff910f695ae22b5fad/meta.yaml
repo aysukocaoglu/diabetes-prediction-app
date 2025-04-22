@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/2d2eafab27d449ff910f695ae22b5fad/artifacts
+end_time: 1745355450567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d2eafab27d449ff910f695ae22b5fad
+run_name: crawling-cod-84
+run_uuid: 2d2eafab27d449ff910f695ae22b5fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355450394
+status: 3
+tags: []
+user_id: aysuk

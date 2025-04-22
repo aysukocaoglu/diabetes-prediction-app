@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/14d58419314e49a5b18699ff943441d0/artifacts
+end_time: 1745357310192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d58419314e49a5b18699ff943441d0
+run_name: tasteful-grub-319
+run_uuid: 14d58419314e49a5b18699ff943441d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357310053
+status: 3
+tags: []
+user_id: aysuk

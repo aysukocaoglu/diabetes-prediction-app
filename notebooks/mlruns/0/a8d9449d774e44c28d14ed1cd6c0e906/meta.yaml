@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/a8d9449d774e44c28d14ed1cd6c0e906/artifacts
+end_time: 1745355453221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8d9449d774e44c28d14ed1cd6c0e906
+run_name: exultant-owl-48
+run_uuid: a8d9449d774e44c28d14ed1cd6c0e906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355453069
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/daa412a00965452a9b86c46db8394950/artifacts
+end_time: 1745360293301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daa412a00965452a9b86c46db8394950
+run_name: adorable-tern-791
+run_uuid: daa412a00965452a9b86c46db8394950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360287816
+status: 3
+tags: []
+user_id: aysuk

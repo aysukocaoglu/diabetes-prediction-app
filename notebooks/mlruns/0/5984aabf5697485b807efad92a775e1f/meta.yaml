@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/5984aabf5697485b807efad92a775e1f/artifacts
+end_time: 1745357312047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5984aabf5697485b807efad92a775e1f
+run_name: auspicious-ram-556
+run_uuid: 5984aabf5697485b807efad92a775e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357311892
+status: 3
+tags: []
+user_id: aysuk

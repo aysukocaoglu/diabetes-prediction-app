@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/93f4930712bb45628e58aef930f8e7cd/artifacts
+end_time: 1745360299375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93f4930712bb45628e58aef930f8e7cd
+run_name: monumental-elk-240
+run_uuid: 93f4930712bb45628e58aef930f8e7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360299274
+status: 3
+tags: []
+user_id: aysuk

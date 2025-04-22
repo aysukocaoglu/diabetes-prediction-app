@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/a718a09af3b64cac8c52db8d252c625d/artifacts
+end_time: 1745357279451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a718a09af3b64cac8c52db8d252c625d
+run_name: colorful-trout-722
+run_uuid: a718a09af3b64cac8c52db8d252c625d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357266365
+status: 3
+tags: []
+user_id: aysuk

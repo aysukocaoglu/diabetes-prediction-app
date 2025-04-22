@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/bfae603609384bfeaaec82e6795c70f0/artifacts
+end_time: 1745355452087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfae603609384bfeaaec82e6795c70f0
+run_name: traveling-moose-139
+run_uuid: bfae603609384bfeaaec82e6795c70f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355451960
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/53278be2352e4ae5929160a81760fbc1/artifacts
+end_time: 1745355450189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53278be2352e4ae5929160a81760fbc1
+run_name: upset-horse-575
+run_uuid: 53278be2352e4ae5929160a81760fbc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355450078
+status: 3
+tags: []
+user_id: aysuk

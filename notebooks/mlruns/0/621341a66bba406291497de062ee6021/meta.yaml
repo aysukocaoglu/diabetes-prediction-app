@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/621341a66bba406291497de062ee6021/artifacts
+end_time: 1745355451774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 621341a66bba406291497de062ee6021
+run_name: fearless-mule-589
+run_uuid: 621341a66bba406291497de062ee6021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355451649
+status: 3
+tags: []
+user_id: aysuk

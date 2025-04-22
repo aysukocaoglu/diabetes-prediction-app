@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/13da25f0fcc74a6cbca1f60cc380a226/artifacts
+end_time: 1745357311878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13da25f0fcc74a6cbca1f60cc380a226
+run_name: colorful-chimp-540
+run_uuid: 13da25f0fcc74a6cbca1f60cc380a226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357311756
+status: 3
+tags: []
+user_id: aysuk

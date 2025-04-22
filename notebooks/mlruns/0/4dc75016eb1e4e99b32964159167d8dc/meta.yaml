@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/4dc75016eb1e4e99b32964159167d8dc/artifacts
+end_time: 1745356374314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dc75016eb1e4e99b32964159167d8dc
+run_name: omniscient-auk-833
+run_uuid: 4dc75016eb1e4e99b32964159167d8dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356368453
+status: 3
+tags: []
+user_id: aysuk

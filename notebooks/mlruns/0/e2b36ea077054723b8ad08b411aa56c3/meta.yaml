@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/e2b36ea077054723b8ad08b411aa56c3/artifacts
+end_time: 1745360300198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b36ea077054723b8ad08b411aa56c3
+run_name: invincible-panda-426
+run_uuid: e2b36ea077054723b8ad08b411aa56c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360300103
+status: 3
+tags: []
+user_id: aysuk

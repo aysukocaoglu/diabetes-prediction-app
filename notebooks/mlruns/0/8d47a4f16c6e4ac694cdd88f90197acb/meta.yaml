@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/8d47a4f16c6e4ac694cdd88f90197acb/artifacts
+end_time: 1745355452627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d47a4f16c6e4ac694cdd88f90197acb
+run_name: shivering-carp-678
+run_uuid: 8d47a4f16c6e4ac694cdd88f90197acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355452496
+status: 3
+tags: []
+user_id: aysuk

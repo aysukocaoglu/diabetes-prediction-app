@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/30addc5acf8241efad582d336be47eaa/artifacts
+end_time: 1745357309217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30addc5acf8241efad582d336be47eaa
+run_name: shivering-steed-948
+run_uuid: 30addc5acf8241efad582d336be47eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357309087
+status: 3
+tags: []
+user_id: aysuk

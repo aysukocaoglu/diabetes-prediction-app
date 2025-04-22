@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/3b578cc24ef64a75ba5e9fe8f4d300e7/artifacts
+end_time: 1745356398288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b578cc24ef64a75ba5e9fe8f4d300e7
+run_name: omniscient-worm-973
+run_uuid: 3b578cc24ef64a75ba5e9fe8f4d300e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356398166
+status: 3
+tags: []
+user_id: aysuk

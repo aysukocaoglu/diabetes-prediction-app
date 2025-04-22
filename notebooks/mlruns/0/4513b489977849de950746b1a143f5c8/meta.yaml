@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/4513b489977849de950746b1a143f5c8/artifacts
+end_time: 1745360299123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4513b489977849de950746b1a143f5c8
+run_name: defiant-roo-547
+run_uuid: 4513b489977849de950746b1a143f5c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360299029
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/cf783ef9129d49b4835f524c4c6b8e8c/artifacts
+end_time: 1745357310830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf783ef9129d49b4835f524c4c6b8e8c
+run_name: incongruous-conch-28
+run_uuid: cf783ef9129d49b4835f524c4c6b8e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357310689
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/b4120222da0e415da2fe7f2255fe8faa/artifacts
+end_time: 1745360299262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4120222da0e415da2fe7f2255fe8faa
+run_name: burly-swan-273
+run_uuid: b4120222da0e415da2fe7f2255fe8faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360299138
+status: 3
+tags: []
+user_id: aysuk

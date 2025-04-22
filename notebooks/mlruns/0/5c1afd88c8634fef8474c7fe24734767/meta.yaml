@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/5c1afd88c8634fef8474c7fe24734767/artifacts
+end_time: 1745355104650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c1afd88c8634fef8474c7fe24734767
+run_name: classy-roo-573
+run_uuid: 5c1afd88c8634fef8474c7fe24734767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355098321
+status: 3
+tags: []
+user_id: aysuk

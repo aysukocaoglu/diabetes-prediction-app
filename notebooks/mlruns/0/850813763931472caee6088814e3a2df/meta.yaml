@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/850813763931472caee6088814e3a2df/artifacts
+end_time: 1745356397159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 850813763931472caee6088814e3a2df
+run_name: bright-goose-826
+run_uuid: 850813763931472caee6088814e3a2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356396998
+status: 3
+tags: []
+user_id: aysuk

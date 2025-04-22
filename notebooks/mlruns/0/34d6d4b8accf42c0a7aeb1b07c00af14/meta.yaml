@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/34d6d4b8accf42c0a7aeb1b07c00af14/artifacts
+end_time: 1745357311136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d6d4b8accf42c0a7aeb1b07c00af14
+run_name: fortunate-cub-876
+run_uuid: 34d6d4b8accf42c0a7aeb1b07c00af14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357311015
+status: 3
+tags: []
+user_id: aysuk

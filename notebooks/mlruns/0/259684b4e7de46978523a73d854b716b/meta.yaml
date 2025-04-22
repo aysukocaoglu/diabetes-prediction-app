@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/259684b4e7de46978523a73d854b716b/artifacts
+end_time: 1745360268957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 259684b4e7de46978523a73d854b716b
+run_name: rumbling-moth-690
+run_uuid: 259684b4e7de46978523a73d854b716b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360260200
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/90586bec01b444bdbcb756b4018244ba/artifacts
+end_time: 1745355449409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90586bec01b444bdbcb756b4018244ba
+run_name: nimble-sheep-538
+run_uuid: 90586bec01b444bdbcb756b4018244ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355443446
+status: 3
+tags: []
+user_id: aysuk

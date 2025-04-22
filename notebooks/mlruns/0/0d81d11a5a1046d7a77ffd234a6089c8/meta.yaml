@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/0d81d11a5a1046d7a77ffd234a6089c8/artifacts
+end_time: 1745360298427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d81d11a5a1046d7a77ffd234a6089c8
+run_name: mercurial-goose-627
+run_uuid: 0d81d11a5a1046d7a77ffd234a6089c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360293312
+status: 3
+tags: []
+user_id: aysuk

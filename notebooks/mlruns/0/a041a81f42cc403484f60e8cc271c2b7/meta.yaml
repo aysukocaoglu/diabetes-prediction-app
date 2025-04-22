@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/a041a81f42cc403484f60e8cc271c2b7/artifacts
+end_time: 1745355451616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a041a81f42cc403484f60e8cc271c2b7
+run_name: amusing-stoat-301
+run_uuid: a041a81f42cc403484f60e8cc271c2b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355451507
+status: 3
+tags: []
+user_id: aysuk

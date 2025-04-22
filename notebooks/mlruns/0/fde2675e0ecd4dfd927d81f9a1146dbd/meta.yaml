@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/fde2675e0ecd4dfd927d81f9a1146dbd/artifacts
+end_time: 1745360301528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde2675e0ecd4dfd927d81f9a1146dbd
+run_name: stylish-ant-558
+run_uuid: fde2675e0ecd4dfd927d81f9a1146dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360301420
+status: 3
+tags: []
+user_id: aysuk

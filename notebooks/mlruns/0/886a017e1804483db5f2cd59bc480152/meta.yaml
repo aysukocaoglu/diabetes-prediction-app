@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/886a017e1804483db5f2cd59bc480152/artifacts
+end_time: 1745360299971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 886a017e1804483db5f2cd59bc480152
+run_name: trusting-gnat-857
+run_uuid: 886a017e1804483db5f2cd59bc480152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360299876
+status: 3
+tags: []
+user_id: aysuk

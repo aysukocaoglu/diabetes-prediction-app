@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/674a98f244f74cd7ab79a6118b94a55a/artifacts
+end_time: 1745357310994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 674a98f244f74cd7ab79a6118b94a55a
+run_name: luxuriant-rat-746
+run_uuid: 674a98f244f74cd7ab79a6118b94a55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357310844
+status: 3
+tags: []
+user_id: aysuk

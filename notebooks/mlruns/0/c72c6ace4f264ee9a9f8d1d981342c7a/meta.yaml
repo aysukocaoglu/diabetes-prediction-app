@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/c72c6ace4f264ee9a9f8d1d981342c7a/artifacts
+end_time: 1745357295801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c72c6ace4f264ee9a9f8d1d981342c7a
+run_name: masked-smelt-506
+run_uuid: c72c6ace4f264ee9a9f8d1d981342c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357290596
+status: 3
+tags: []
+user_id: aysuk

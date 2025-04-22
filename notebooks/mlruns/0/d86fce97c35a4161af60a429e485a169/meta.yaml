@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d86fce97c35a4161af60a429e485a169/artifacts
+end_time: 1745356398140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d86fce97c35a4161af60a429e485a169
+run_name: dapper-kite-369
+run_uuid: d86fce97c35a4161af60a429e485a169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356397997
+status: 3
+tags: []
+user_id: aysuk

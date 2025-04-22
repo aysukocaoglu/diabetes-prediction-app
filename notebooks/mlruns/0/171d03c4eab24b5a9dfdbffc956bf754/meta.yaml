@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/171d03c4eab24b5a9dfdbffc956bf754/artifacts
+end_time: 1745360281050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 171d03c4eab24b5a9dfdbffc956bf754
+run_name: polite-bug-434
+run_uuid: 171d03c4eab24b5a9dfdbffc956bf754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360275537
+status: 3
+tags: []
+user_id: aysuk

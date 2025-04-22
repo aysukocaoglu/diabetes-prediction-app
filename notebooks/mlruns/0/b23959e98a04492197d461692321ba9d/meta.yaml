@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/b23959e98a04492197d461692321ba9d/artifacts
+end_time: 1745356395609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b23959e98a04492197d461692321ba9d
+run_name: honorable-hare-709
+run_uuid: b23959e98a04492197d461692321ba9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356395372
+status: 3
+tags: []
+user_id: aysuk

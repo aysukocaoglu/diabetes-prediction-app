@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/71ec3775e716433496a1b3e2ba86d883/artifacts
+end_time: 1745360299606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71ec3775e716433496a1b3e2ba86d883
+run_name: respected-wolf-59
+run_uuid: 71ec3775e716433496a1b3e2ba86d883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745360299511
+status: 3
+tags: []
+user_id: aysuk

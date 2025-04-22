@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/a52a1fa48d074ffbb6b08b954a51eaea/artifacts
+end_time: 1745356396785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a52a1fa48d074ffbb6b08b954a51eaea
+run_name: gaudy-ape-526
+run_uuid: a52a1fa48d074ffbb6b08b954a51eaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356396573
+status: 3
+tags: []
+user_id: aysuk

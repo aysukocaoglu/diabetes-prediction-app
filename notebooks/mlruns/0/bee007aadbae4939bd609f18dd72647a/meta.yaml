@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/bee007aadbae4939bd609f18dd72647a/artifacts
+end_time: 1745355424087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee007aadbae4939bd609f18dd72647a
+run_name: gregarious-worm-953
+run_uuid: bee007aadbae4939bd609f18dd72647a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355417331
+status: 3
+tags: []
+user_id: aysuk

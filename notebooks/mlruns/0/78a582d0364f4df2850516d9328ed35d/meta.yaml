@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/78a582d0364f4df2850516d9328ed35d/artifacts
+end_time: 1745357309487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78a582d0364f4df2850516d9328ed35d
+run_name: wise-rat-549
+run_uuid: 78a582d0364f4df2850516d9328ed35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357309375
+status: 3
+tags: []
+user_id: aysuk

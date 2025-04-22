@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/bec551d29003406ca184661620e9a064/artifacts
+end_time: 1745355453326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bec551d29003406ca184661620e9a064
+run_name: adorable-stag-241
+run_uuid: bec551d29003406ca184661620e9a064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355453236
+status: 3
+tags: []
+user_id: aysuk

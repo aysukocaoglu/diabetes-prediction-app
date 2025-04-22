@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/587c024ad23648139e9f3d3c3242a79b/artifacts
+end_time: 1745356395339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 587c024ad23648139e9f3d3c3242a79b
+run_name: thoughtful-ant-255
+run_uuid: 587c024ad23648139e9f3d3c3242a79b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356395111
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/2df7423b3a534a60a4c295e280fd25cd/artifacts
+end_time: 1744929263215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2df7423b3a534a60a4c295e280fd25cd
+run_name: industrious-gull-184
+run_uuid: 2df7423b3a534a60a4c295e280fd25cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744929256909
+status: 3
+tags: []
+user_id: aysuk

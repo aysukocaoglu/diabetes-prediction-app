@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/65b3db03495a4339bfe886d397724cb1/artifacts
+end_time: 1745355450742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65b3db03495a4339bfe886d397724cb1
+run_name: adorable-shad-751
+run_uuid: 65b3db03495a4339bfe886d397724cb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355450599
+status: 3
+tags: []
+user_id: aysuk

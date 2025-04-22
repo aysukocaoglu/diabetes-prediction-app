@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/ee921271f593449c91e54060b3ad06b3/artifacts
+end_time: 1745356396031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee921271f593449c91e54060b3ad06b3
+run_name: salty-pug-898
+run_uuid: ee921271f593449c91e54060b3ad06b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356395811
+status: 3
+tags: []
+user_id: aysuk

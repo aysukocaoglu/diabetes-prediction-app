@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/55130d18070c42c1bb9af16e42f3c4ca/artifacts
+end_time: 1745356396540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55130d18070c42c1bb9af16e42f3c4ca
+run_name: wise-hound-300
+run_uuid: 55130d18070c42c1bb9af16e42f3c4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745356396336
+status: 3
+tags: []
+user_id: aysuk

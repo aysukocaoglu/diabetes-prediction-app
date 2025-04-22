@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/b74faef9d8dd43de93d1516f68bf0f95/artifacts
+end_time: 1745357311564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b74faef9d8dd43de93d1516f68bf0f95
+run_name: fun-koi-585
+run_uuid: b74faef9d8dd43de93d1516f68bf0f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745357311442
+status: 3
+tags: []
+user_id: aysuk

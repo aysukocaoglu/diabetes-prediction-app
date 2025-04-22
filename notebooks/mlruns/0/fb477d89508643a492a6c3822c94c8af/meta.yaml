@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/fb477d89508643a492a6c3822c94c8af/artifacts
+end_time: 1745355451491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb477d89508643a492a6c3822c94c8af
+run_name: serious-colt-341
+run_uuid: fb477d89508643a492a6c3822c94c8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745355451378
+status: 3
+tags: []
+user_id: aysuk
