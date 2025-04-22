@@ -55,7 +55,7 @@ def predict():
     except Exception as e:
         return jsonify({"error": str(e)}), 400
 
-# 🔍 Generate bar plot
+# Generate bar plot
 def generate_prediction_plot(prediction):
     fig, ax = plt.subplots()
     bars = ['Non-Diabetic', 'Diabetic']
