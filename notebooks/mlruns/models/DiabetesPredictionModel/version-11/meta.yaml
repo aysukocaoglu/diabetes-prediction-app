@@ -1,8 +1,8 @@
 aliases: []
 creation_timestamp: 1745361676794
-current_stage: Production
+current_stage: Archived
 description: ''
-last_updated_timestamp: 1745363307593
+last_updated_timestamp: 1745370680256
 name: DiabetesPredictionModel
 run_id: 64ff6172814b4a5397583115971da20f
 run_link: ''

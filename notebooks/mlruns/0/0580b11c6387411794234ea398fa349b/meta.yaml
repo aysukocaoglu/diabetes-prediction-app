@@ -1,5 +1,5 @@
 artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/0580b11c6387411794234ea398fa349b/artifacts
-end_time: null
+end_time: 1745370624886
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1745362252906
-status: 1
+status: 3
 tags: []
 user_id: aysuk
