@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/e1d2e167b0234126994ddf86a75904bd/artifacts
+end_time: 1746657831884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d2e167b0234126994ddf86a75904bd
+run_name: smiling-rat-502
+run_uuid: e1d2e167b0234126994ddf86a75904bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657831723
+status: 3
+tags: []
+user_id: aysuk

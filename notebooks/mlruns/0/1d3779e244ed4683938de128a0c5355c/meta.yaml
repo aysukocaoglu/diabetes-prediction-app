@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/1d3779e244ed4683938de128a0c5355c/artifacts
+end_time: 1746660333614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d3779e244ed4683938de128a0c5355c
+run_name: salty-stag-25
+run_uuid: 1d3779e244ed4683938de128a0c5355c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660333513
+status: 3
+tags: []
+user_id: aysuk

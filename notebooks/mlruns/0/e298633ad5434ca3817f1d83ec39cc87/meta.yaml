@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/e298633ad5434ca3817f1d83ec39cc87/artifacts
+end_time: 1746660332427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e298633ad5434ca3817f1d83ec39cc87
+run_name: bedecked-pug-639
+run_uuid: e298633ad5434ca3817f1d83ec39cc87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332330
+status: 3
+tags: []
+user_id: aysuk

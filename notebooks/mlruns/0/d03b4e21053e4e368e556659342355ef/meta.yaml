@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d03b4e21053e4e368e556659342355ef/artifacts
+end_time: 1746657829498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d03b4e21053e4e368e556659342355ef
+run_name: luminous-flea-719
+run_uuid: d03b4e21053e4e368e556659342355ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657829246
+status: 3
+tags: []
+user_id: aysuk

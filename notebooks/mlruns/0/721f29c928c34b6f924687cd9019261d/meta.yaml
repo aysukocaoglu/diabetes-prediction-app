@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/721f29c928c34b6f924687cd9019261d/artifacts
+end_time: 1746657807276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 721f29c928c34b6f924687cd9019261d
+run_name: powerful-wren-68
+run_uuid: 721f29c928c34b6f924687cd9019261d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657800523
+status: 3
+tags: []
+user_id: aysuk

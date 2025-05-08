@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/1df8486040c44ae7b595238c06f2278a/artifacts
+end_time: 1746659581735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1df8486040c44ae7b595238c06f2278a
+run_name: selective-carp-70
+run_uuid: 1df8486040c44ae7b595238c06f2278a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581636
+status: 3
+tags: []
+user_id: aysuk

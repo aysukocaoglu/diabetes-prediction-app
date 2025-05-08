@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d6dc8d214abb4135865f5c0dbfc5a589/artifacts
+end_time: 1746660321251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6dc8d214abb4135865f5c0dbfc5a589
+run_name: luxuriant-gnat-126
+run_uuid: d6dc8d214abb4135865f5c0dbfc5a589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660316094
+status: 3
+tags: []
+user_id: aysuk

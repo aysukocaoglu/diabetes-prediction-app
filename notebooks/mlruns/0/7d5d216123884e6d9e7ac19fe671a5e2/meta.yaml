@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/7d5d216123884e6d9e7ac19fe671a5e2/artifacts
+end_time: 1746659582854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d5d216123884e6d9e7ac19fe671a5e2
+run_name: angry-dove-714
+run_uuid: 7d5d216123884e6d9e7ac19fe671a5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659582762
+status: 3
+tags: []
+user_id: aysuk

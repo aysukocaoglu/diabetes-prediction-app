@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/744643fee7654724996d7f3af5c0299b/artifacts
+end_time: 1746659581957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 744643fee7654724996d7f3af5c0299b
+run_name: valuable-fly-69
+run_uuid: 744643fee7654724996d7f3af5c0299b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581864
+status: 3
+tags: []
+user_id: aysuk

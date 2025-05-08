@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/1ba62fbeca914e90914fc5b92d37ff94/artifacts
+end_time: 1746657830236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ba62fbeca914e90914fc5b92d37ff94
+run_name: bouncy-koi-475
+run_uuid: 1ba62fbeca914e90914fc5b92d37ff94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657830058
+status: 3
+tags: []
+user_id: aysuk

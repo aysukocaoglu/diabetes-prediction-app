@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/9f6ade6c3e9a425e9421a161e0bf359d/artifacts
+end_time: 1746660332318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6ade6c3e9a425e9421a161e0bf359d
+run_name: rare-bass-55
+run_uuid: 9f6ade6c3e9a425e9421a161e0bf359d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332222
+status: 3
+tags: []
+user_id: aysuk

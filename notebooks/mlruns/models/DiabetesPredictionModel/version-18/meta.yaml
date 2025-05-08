@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746660260094
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1746660408016
+name: DiabetesPredictionModel
+run_id: 313877b65b19458d8e2b7b16daadc9e6
+run_link: ''
+source: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/313877b65b19458d8e2b7b16daadc9e6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/313877b65b19458d8e2b7b16daadc9e6/artifacts/model
+user_id: null
+version: 18

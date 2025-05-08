@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/73282f9a8da64d988394ac5b44ca12b4/artifacts
+end_time: 1746659582400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73282f9a8da64d988394ac5b44ca12b4
+run_name: amusing-duck-1
+run_uuid: 73282f9a8da64d988394ac5b44ca12b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659582303
+status: 3
+tags: []
+user_id: aysuk

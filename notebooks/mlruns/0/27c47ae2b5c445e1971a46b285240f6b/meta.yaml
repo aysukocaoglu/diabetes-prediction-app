@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/27c47ae2b5c445e1971a46b285240f6b/artifacts
+end_time: 1746659583179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27c47ae2b5c445e1971a46b285240f6b
+run_name: useful-crow-560
+run_uuid: 27c47ae2b5c445e1971a46b285240f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659583087
+status: 3
+tags: []
+user_id: aysuk

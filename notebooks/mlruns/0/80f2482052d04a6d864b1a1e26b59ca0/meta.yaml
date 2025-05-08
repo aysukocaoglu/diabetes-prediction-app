@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/80f2482052d04a6d864b1a1e26b59ca0/artifacts
+end_time: 1746660304036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80f2482052d04a6d864b1a1e26b59ca0
+run_name: inquisitive-doe-995
+run_uuid: 80f2482052d04a6d864b1a1e26b59ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660295597
+status: 3
+tags: []
+user_id: aysuk

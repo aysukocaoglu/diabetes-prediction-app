@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/4fb071aaeba9456f97832b79dc91bba7/artifacts
+end_time: 1746657813555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb071aaeba9456f97832b79dc91bba7
+run_name: traveling-ram-140
+run_uuid: 4fb071aaeba9456f97832b79dc91bba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657807287
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/154c75b4a12c4bd38d64b62d08c02ffb/artifacts
+end_time: 1746657800512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 154c75b4a12c4bd38d64b62d08c02ffb
+run_name: wistful-lynx-303
+run_uuid: 154c75b4a12c4bd38d64b62d08c02ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657794511
+status: 3
+tags: []
+user_id: aysuk

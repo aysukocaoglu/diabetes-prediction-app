@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/045be72d64304281b874e5950d528f22/artifacts
+end_time: 1746660332796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 045be72d64304281b874e5950d528f22
+run_name: honorable-wren-93
+run_uuid: 045be72d64304281b874e5950d528f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332682
+status: 3
+tags: []
+user_id: aysuk

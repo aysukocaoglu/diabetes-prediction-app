@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/0b6cfea3d85d44a59ac7bbe41195ebda/artifacts
+end_time: 1746659580321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b6cfea3d85d44a59ac7bbe41195ebda
+run_name: rare-dolphin-298
+run_uuid: 0b6cfea3d85d44a59ac7bbe41195ebda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659574846
+status: 3
+tags: []
+user_id: aysuk

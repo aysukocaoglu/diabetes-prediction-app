@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f90aaf0539e248eaa4fe7429ff5b8a45/artifacts
+end_time: 1746659582180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90aaf0539e248eaa4fe7429ff5b8a45
+run_name: resilient-quail-953
+run_uuid: f90aaf0539e248eaa4fe7429ff5b8a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659582088
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/74a5f060a6164f18bf6884b4b7cdc9af/artifacts
+end_time: 1746660332964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74a5f060a6164f18bf6884b4b7cdc9af
+run_name: defiant-sponge-723
+run_uuid: 74a5f060a6164f18bf6884b4b7cdc9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332808
+status: 3
+tags: []
+user_id: aysuk

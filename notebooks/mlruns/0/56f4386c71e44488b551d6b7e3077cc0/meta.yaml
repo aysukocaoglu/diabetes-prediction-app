@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/56f4386c71e44488b551d6b7e3077cc0/artifacts
+end_time: 1746659582291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56f4386c71e44488b551d6b7e3077cc0
+run_name: carefree-pug-304
+run_uuid: 56f4386c71e44488b551d6b7e3077cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659582191
+status: 3
+tags: []
+user_id: aysuk

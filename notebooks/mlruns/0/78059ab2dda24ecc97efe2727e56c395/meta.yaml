@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/78059ab2dda24ecc97efe2727e56c395/artifacts
+end_time: 1746659581623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78059ab2dda24ecc97efe2727e56c395
+run_name: intrigued-fowl-161
+run_uuid: 78059ab2dda24ecc97efe2727e56c395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581503
+status: 3
+tags: []
+user_id: aysuk

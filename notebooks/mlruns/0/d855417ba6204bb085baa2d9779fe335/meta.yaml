@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d855417ba6204bb085baa2d9779fe335/artifacts
+end_time: 1746657831368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d855417ba6204bb085baa2d9779fe335
+run_name: righteous-sloth-783
+run_uuid: d855417ba6204bb085baa2d9779fe335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657831236
+status: 3
+tags: []
+user_id: aysuk

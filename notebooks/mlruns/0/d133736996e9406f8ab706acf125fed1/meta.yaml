@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d133736996e9406f8ab706acf125fed1/artifacts
+end_time: 1746659562550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d133736996e9406f8ab706acf125fed1
+run_name: merciful-fowl-401
+run_uuid: d133736996e9406f8ab706acf125fed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659556879
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/e13df86957864a718faee6881d1a41ef/artifacts
+end_time: 1746657832602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e13df86957864a718faee6881d1a41ef
+run_name: selective-cub-100
+run_uuid: e13df86957864a718faee6881d1a41ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657832447
+status: 3
+tags: []
+user_id: aysuk

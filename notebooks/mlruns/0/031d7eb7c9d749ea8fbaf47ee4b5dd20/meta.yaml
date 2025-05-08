@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/031d7eb7c9d749ea8fbaf47ee4b5dd20/artifacts
+end_time: 1746659581850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 031d7eb7c9d749ea8fbaf47ee4b5dd20
+run_name: able-doe-424
+run_uuid: 031d7eb7c9d749ea8fbaf47ee4b5dd20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581749
+status: 3
+tags: []
+user_id: aysuk

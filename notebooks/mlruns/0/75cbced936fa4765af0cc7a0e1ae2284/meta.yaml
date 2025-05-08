@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/75cbced936fa4765af0cc7a0e1ae2284/artifacts
+end_time: 1746657830453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75cbced936fa4765af0cc7a0e1ae2284
+run_name: chill-ant-686
+run_uuid: 75cbced936fa4765af0cc7a0e1ae2284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657830273
+status: 3
+tags: []
+user_id: aysuk

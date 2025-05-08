@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/b12eb5d78ebe4cf0881115bf597fe955/artifacts
+end_time: 1746660334570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b12eb5d78ebe4cf0881115bf597fe955
+run_name: receptive-stork-768
+run_uuid: b12eb5d78ebe4cf0881115bf597fe955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660334422
+status: 3
+tags: []
+user_id: aysuk

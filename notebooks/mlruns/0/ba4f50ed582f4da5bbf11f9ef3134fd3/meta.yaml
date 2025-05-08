@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/ba4f50ed582f4da5bbf11f9ef3134fd3/artifacts
+end_time: 1746660332099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba4f50ed582f4da5bbf11f9ef3134fd3
+run_name: sincere-crow-594
+run_uuid: ba4f50ed582f4da5bbf11f9ef3134fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332003
+status: 3
+tags: []
+user_id: aysuk

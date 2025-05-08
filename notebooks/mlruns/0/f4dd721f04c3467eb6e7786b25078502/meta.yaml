@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f4dd721f04c3467eb6e7786b25078502/artifacts
+end_time: 1746660334404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4dd721f04c3467eb6e7786b25078502
+run_name: bouncy-donkey-620
+run_uuid: f4dd721f04c3467eb6e7786b25078502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660334249
+status: 3
+tags: []
+user_id: aysuk

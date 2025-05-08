@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/fc3a79e71ba54f018164c2ed21eb670c/artifacts
+end_time: 1746657831698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc3a79e71ba54f018164c2ed21eb670c
+run_name: luminous-shoat-268
+run_uuid: fc3a79e71ba54f018164c2ed21eb670c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657831563
+status: 3
+tags: []
+user_id: aysuk

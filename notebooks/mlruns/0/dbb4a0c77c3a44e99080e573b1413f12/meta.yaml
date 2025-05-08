@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/dbb4a0c77c3a44e99080e573b1413f12/artifacts
+end_time: 1746660332542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbb4a0c77c3a44e99080e573b1413f12
+run_name: handsome-dove-440
+run_uuid: dbb4a0c77c3a44e99080e573b1413f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332442
+status: 3
+tags: []
+user_id: aysuk

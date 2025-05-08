@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/8ee75b809c084003b7217e7a3d2ab744/artifacts
+end_time: 1746657829725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ee75b809c084003b7217e7a3d2ab744
+run_name: mysterious-goose-876
+run_uuid: 8ee75b809c084003b7217e7a3d2ab744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657829534
+status: 3
+tags: []
+user_id: aysuk

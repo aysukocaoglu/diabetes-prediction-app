@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/26b26e02b5f6494f85effb298bb7ea46/artifacts
+end_time: 1746657830850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26b26e02b5f6494f85effb298bb7ea46
+run_name: likeable-shad-794
+run_uuid: 26b26e02b5f6494f85effb298bb7ea46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657830690
+status: 3
+tags: []
+user_id: aysuk

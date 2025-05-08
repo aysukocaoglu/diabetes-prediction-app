@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/02538bade2ee44d3b726bf0d6ca42cf9/artifacts
+end_time: 1746659580958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02538bade2ee44d3b726bf0d6ca42cf9
+run_name: entertaining-bug-822
+run_uuid: 02538bade2ee44d3b726bf0d6ca42cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659580859
+status: 3
+tags: []
+user_id: aysuk

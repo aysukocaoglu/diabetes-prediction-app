@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/785e415f4af84f248ac872b4b0bd7a6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 785e415f4af84f248ac872b4b0bd7a6d
+run_name: resilient-vole-182
+run_uuid: 785e415f4af84f248ac872b4b0bd7a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746662685863
+status: 1
+tags: []
+user_id: aysuk

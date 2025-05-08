@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/aa19e5beed1e4e4bacdc5f2df0d9bd23/artifacts
+end_time: 1746657832055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa19e5beed1e4e4bacdc5f2df0d9bd23
+run_name: sneaky-sloth-21
+run_uuid: aa19e5beed1e4e4bacdc5f2df0d9bd23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657831912
+status: 3
+tags: []
+user_id: aysuk

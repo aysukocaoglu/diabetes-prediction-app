@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/529cb01a03e6401f888f801337838086/artifacts
+end_time: 1746659582750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529cb01a03e6401f888f801337838086
+run_name: valuable-crane-116
+run_uuid: 529cb01a03e6401f888f801337838086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659582580
+status: 3
+tags: []
+user_id: aysuk

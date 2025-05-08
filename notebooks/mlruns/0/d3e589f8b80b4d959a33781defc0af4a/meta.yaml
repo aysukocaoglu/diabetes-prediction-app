@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/d3e589f8b80b4d959a33781defc0af4a/artifacts
+end_time: 1746659581487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3e589f8b80b4d959a33781defc0af4a
+run_name: mysterious-colt-956
+run_uuid: d3e589f8b80b4d959a33781defc0af4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581343
+status: 3
+tags: []
+user_id: aysuk

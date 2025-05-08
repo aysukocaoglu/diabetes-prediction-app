@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/db623c1d62b842d4b86147bb90b09edd/artifacts
+end_time: 1746659583292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db623c1d62b842d4b86147bb90b09edd
+run_name: magnificent-robin-28
+run_uuid: db623c1d62b842d4b86147bb90b09edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659583194
+status: 3
+tags: []
+user_id: aysuk

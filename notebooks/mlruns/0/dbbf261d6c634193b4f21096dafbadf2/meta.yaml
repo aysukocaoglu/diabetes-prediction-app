@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/dbbf261d6c634193b4f21096dafbadf2/artifacts
+end_time: 1746657829204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbbf261d6c634193b4f21096dafbadf2
+run_name: respected-squid-927
+run_uuid: dbbf261d6c634193b4f21096dafbadf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657828943
+status: 3
+tags: []
+user_id: aysuk

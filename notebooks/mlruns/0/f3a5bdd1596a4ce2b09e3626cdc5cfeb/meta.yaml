@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f3a5bdd1596a4ce2b09e3626cdc5cfeb/artifacts
+end_time: 1746657149867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3a5bdd1596a4ce2b09e3626cdc5cfeb
+run_name: zealous-wolf-131
+run_uuid: f3a5bdd1596a4ce2b09e3626cdc5cfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657144544
+status: 3
+tags: []
+user_id: aysuk

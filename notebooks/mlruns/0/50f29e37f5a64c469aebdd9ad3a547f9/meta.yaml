@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/50f29e37f5a64c469aebdd9ad3a547f9/artifacts
+end_time: 1746659581186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50f29e37f5a64c469aebdd9ad3a547f9
+run_name: brawny-bird-556
+run_uuid: 50f29e37f5a64c469aebdd9ad3a547f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581091
+status: 3
+tags: []
+user_id: aysuk

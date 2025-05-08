@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/da86b0ce8a7c4846a21a765ecf91c9e9/artifacts
+end_time: 1746659581077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da86b0ce8a7c4846a21a765ecf91c9e9
+run_name: shivering-smelt-747
+run_uuid: da86b0ce8a7c4846a21a765ecf91c9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659580970
+status: 3
+tags: []
+user_id: aysuk

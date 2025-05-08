@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/0dedce457de44ea1aad0654dd0b2c265/artifacts
+end_time: 1746659581317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dedce457de44ea1aad0654dd0b2c265
+run_name: trusting-lynx-564
+run_uuid: 0dedce457de44ea1aad0654dd0b2c265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659581199
+status: 3
+tags: []
+user_id: aysuk

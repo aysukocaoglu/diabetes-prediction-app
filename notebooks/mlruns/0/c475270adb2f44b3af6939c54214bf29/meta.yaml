@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/c475270adb2f44b3af6939c54214bf29/artifacts
+end_time: 1746660333107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c475270adb2f44b3af6939c54214bf29
+run_name: kindly-hog-119
+run_uuid: c475270adb2f44b3af6939c54214bf29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660332989
+status: 3
+tags: []
+user_id: aysuk

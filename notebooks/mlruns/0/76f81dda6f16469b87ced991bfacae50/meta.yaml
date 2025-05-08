@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/76f81dda6f16469b87ced991bfacae50/artifacts
+end_time: 1746657832805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76f81dda6f16469b87ced991bfacae50
+run_name: big-donkey-917
+run_uuid: 76f81dda6f16469b87ced991bfacae50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657832623
+status: 3
+tags: []
+user_id: aysuk

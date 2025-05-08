@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/f952e47d89ea4e158d7e4fff7d542ead/artifacts
+end_time: 1746659568935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f952e47d89ea4e158d7e4fff7d542ead
+run_name: enthused-koi-119
+run_uuid: f952e47d89ea4e158d7e4fff7d542ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659562561
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/cae05b97bc5240fdb66be657e95e9835/artifacts
+end_time: 1746659582560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cae05b97bc5240fdb66be657e95e9835
+run_name: vaunted-gnat-120
+run_uuid: cae05b97bc5240fdb66be657e95e9835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659582415
+status: 3
+tags: []
+user_id: aysuk

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/71f682aa52b744fcb6699c9d0691f7bc/artifacts
+end_time: 1746660334060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71f682aa52b744fcb6699c9d0691f7bc
+run_name: painted-chimp-108
+run_uuid: 71f682aa52b744fcb6699c9d0691f7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746660333895
+status: 3
+tags: []
+user_id: aysuk

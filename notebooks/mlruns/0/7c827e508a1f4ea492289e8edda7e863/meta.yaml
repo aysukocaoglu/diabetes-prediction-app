@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/7c827e508a1f4ea492289e8edda7e863/artifacts
+end_time: 1746659556856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c827e508a1f4ea492289e8edda7e863
+run_name: serious-ray-84
+run_uuid: 7c827e508a1f4ea492289e8edda7e863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746659551190
+status: 3
+tags: []
+user_id: aysuk

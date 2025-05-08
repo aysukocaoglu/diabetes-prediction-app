@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aysuk/OneDrive/Desktop/MLops_termproject/notebooks/mlruns/0/bfbb51fe27f1448a8da70e096339876a/artifacts
+end_time: 1746657819977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfbb51fe27f1448a8da70e096339876a
+run_name: carefree-doe-939
+run_uuid: bfbb51fe27f1448a8da70e096339876a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746657813578
+status: 3
+tags: []
+user_id: aysuk
