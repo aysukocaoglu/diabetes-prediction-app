@@ -105,11 +105,6 @@
                 {% if plot_url %}
                     <h3>🔍 Visual Representation:</h3>
                     <img src="data:image/png;base64,{{ plot_url }}" alt="Prediction Plot">
-                    <div class="performance">
-                        <h4>📊 Model Performance:</h4>
-                        <p><strong>Accuracy:</strong> {{ accuracy }}%</p>
-                        <p><strong>F1 Score:</strong> {{ f1_score }}%</p>
-                    </div>
                 {% endif %}
             {% endif %}
         </div>
