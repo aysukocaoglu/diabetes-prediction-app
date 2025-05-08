@@ -24,9 +24,6 @@ y = df["Outcome"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 y_pred = model.predict(X_test)
 
-# Calculate performance metrics
-accuracy = accuracy_score(y_test, y_pred)
-f1 = f1_score(y_test, y_pred)
 
 # Initialize Flask app
 app = Flask(__name__, template_folder="templates")
@@ -88,21 +85,15 @@ def form():
 
             return render_template("index.html",
                                    prediction=int(prediction),
-                                   plot_url=plot_url,
-                                   accuracy=round(accuracy * 100, 2),
-                                   f1_score=round(f1 * 100, 2))
+                                   plot_url=plot_url)
         except Exception as e:
             return render_template("index.html",
                                    prediction="Error: " + str(e),
-                                   plot_url=None,
-                                   accuracy=round(accuracy * 100, 2),
-                                   f1_score=round(f1 * 100, 2))
+                                   plot_url=None)
         
     return render_template("index.html",
                            prediction=None,
-                           plot_url=None,
-                           accuracy=round(accuracy * 100, 2),
-                           f1_score=round(f1 * 100, 2))
+                           plot_url=None)
 
 
 # Run the app
