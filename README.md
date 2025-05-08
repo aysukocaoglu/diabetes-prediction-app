@@ -1,31 +1,26 @@
-🩺 Diabetes Prediction App
-A complete ML pipeline for predicting diabetes using the Pima Indians Diabetes dataset. The project covers:
+# Diabetes Prediction App
 
-Data preprocessing & EDA
+This repository implements an end-to-end machine learning pipeline for predicting diabetes using the *Pima Indians Diabetes dataset*. The project covers:
 
-Model training (Logistic Regression, Random Forest, KNN)
+- **Data preprocessing & EDA**
+- **Model training (Logistic Regression, Random Forest, KNN)**
+- **Hyperparameter tuning (Grid Search & Hyperopt)**
+- **MLflow experiment tracking & model registry**
+- **Flask-based API deployment with Docker & Render**
 
-Hyperparameter tuning (Grid Search & Hyperopt)
+## Live App
 
-MLflow experiment tracking & model registry
+🔗 **[Diabetes Prediction Form](https://diabetes-app-k6xz.onrender.com/form)**
 
-Flask-based API deployment with Docker & Render
+## Highlights
 
-🔗 Live App
- Diabetes Prediction Form
+- **Exploratory Data Analysis (EDA)**
+- **Hyperparameter tuning with Hyperopt**
+- **MLflow logging & model registry**
+- **REST API with Flask**
+- **Docker & Render deployment**
 
-🚀 Highlights
- EDA & Visualization
+## Dataset
 
- Hyperparameter tuning with Hyperopt
-
- MLflow logging & model registry
-
- REST API with Flask
-
- Docker & Render deployment
-
-📊 Dataset
-Pima Indians Diabetes Dataset:
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-
+📊 **Pima Indians Diabetes Dataset:**  
+[https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
